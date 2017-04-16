@@ -6,8 +6,18 @@
     <description>Recent content in Posts on Adventure Time!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2017 18:09:31 +0000</lastBuildDate>
     <atom:link href="http://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>http://example.com/posts/first/</link>
+      <pubDate>Sat, 15 Apr 2017 18:09:31 +0000</pubDate>
+      
+      <guid>http://example.com/posts/first/</guid>
+      <description>&lt;p&gt;this is the long body. blah blah. xxyy&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Food Chain (Season 6)</title>

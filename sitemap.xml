@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/posts/first/</loc>
+    <lastmod>2017-04-15T18:09:31+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.com/contact/</loc>
     <lastmod>2015-10-13T23:12:18-03:00</lastmod>
   </url>
@@ -47,8 +52,20 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/</loc>
+    <lastmod>2017-04-15T18:09:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/</loc>
+    <lastmod>2017-04-15T18:09:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/</loc>
-    <lastmod>2015-10-13T23:12:18-03:00</lastmod>
+    <lastmod>2017-04-15T18:09:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,13 +82,18 @@
   
   <url>
     <loc>http://example.com/posts/</loc>
-    <lastmod>2014-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-15T18:09:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/season6/</loc>
     <lastmod>2014-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
     <priority>0</priority>
   </url>
   
